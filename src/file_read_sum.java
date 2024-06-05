@@ -46,6 +46,5 @@ public class file_read_sum {
         catch (IOException e) {
             e.printStackTrace();
         }
-
     }
 }
